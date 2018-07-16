@@ -1,6 +1,6 @@
 # RotateImages
 <h2>App GUI</h2>
-<img src="https://imgur.com/O7zjCE8.PNG">
+<img src="https://i.imgur.com/O7zjCE8.png">
 <br>
 <p>Stock</p>
 <img src="https://imgur.com/VOoGiGp.jpg">
