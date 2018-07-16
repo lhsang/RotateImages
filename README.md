@@ -2,6 +2,9 @@
 <p>
 	This tool helps me to rotate multiple images with arbitary rotation angle in my projects (examine, survey,...)
 </p>
+<br>
+<br>
+<b>--------------------------------------------------------<br></b>
 <h2 align="center"><b>App GUI</b> </h2>
 <img src="https://i.imgur.com/O7zjCE8.png">
 <br>
